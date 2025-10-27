@@ -1,3 +1,5 @@
+<h5><a href="https://youtu.be/hsSvS3Rhlk8?si=XyLyPPX0jDpQgxI6">Кликабельный скриншот (видео)</a></h5><a style="float:right" href="https://youtu.be/hsSvS3Rhlk8?si=XyLyPPX0jDpQgxI6" target="_blank">  <img alt="flaskmanagr-ahk-script youtube" src="https://img.youtube.com/vi/hsSvS3Rhlk8/maxresdefault.jpg" /></a>
+
 ## Функциональность
 - **Визуальный интерфейс** для управления настройками в реальном времени
 - **Система профилей** - сохранение и загрузка конфигураций через INI-файлы
